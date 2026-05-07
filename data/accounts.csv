@@ -1,0 +1,16 @@
+account_id,name,tier,balance,active,email,plan,joined,phone,region,usage_gb,support_tier
+ACC-1001,Alice Johnson,premium,250.00,true,alice@example.com,Enterprise,2022-03-15,+1-555-0101,us-east,840.5,dedicated
+ACC-1002,Bob Smith,standard,-15.50,true,bob@example.com,Starter,2023-08-01,+1-555-0102,us-west,12.3,standard
+ACC-1003,Carol Wu,premium,0.00,false,carol@example.com,Enterprise,2021-11-20,+1-555-0103,eu-west,1200.0,dedicated
+ACC-1004,David Patel,standard,75.00,true,david@example.com,Professional,2023-01-10,+1-555-0104,us-east,98.7,standard
+ACC-1005,Eva Martinez,premium,500.00,true,eva@example.com,Enterprise,2020-06-05,+1-555-0105,ap-southeast,2100.4,dedicated
+ACC-1006,Frank Lee,standard,0.00,true,frank@example.com,Starter,2024-02-20,+1-555-0106,us-west,5.1,standard
+ACC-1007,Grace Kim,premium,-88.00,true,grace@example.com,Professional,2022-09-30,+1-555-0107,eu-central,310.0,priority
+ACC-1008,Henry Nguyen,standard,30.00,true,henry@example.com,Starter,2023-11-15,+1-555-0108,us-east,8.9,standard
+ACC-1009,Irene Okafor,premium,120.00,true,irene@example.com,Enterprise,2021-04-22,+1-555-0109,af-south,670.2,dedicated
+ACC-1010,James Torres,standard,-5.00,false,james@example.com,Professional,2022-07-18,+1-555-0110,us-west,45.6,standard
+ACC-1011,Karen Brown,standard,200.00,true,karen@example.com,Professional,2023-05-09,+1-555-0111,us-east,134.2,priority
+ACC-1012,Liam Wilson,premium,1000.00,true,liam@example.com,Enterprise,2019-12-01,+1-555-0112,eu-north,3500.8,dedicated
+ACC-1013,Maya Chen,standard,18.75,true,maya@example.com,Starter,2024-04-11,+1-555-0113,ap-east,2.4,standard
+ACC-1014,Noah Davis,premium,350.00,true,noah@example.com,Enterprise,2020-10-14,+1-555-0114,us-central,920.1,dedicated
+ACC-1015,Olivia Scott,standard,0.00,true,olivia@example.com,Professional,2023-03-27,+1-555-0115,eu-west,88.0,standard
