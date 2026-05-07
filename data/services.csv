@@ -1,0 +1,11 @@
+service_name,status,uptime_30d,incident_id,message,region,last_checked,category
+email,operational,99.9,,All email services running normally.,global,2024-05-01T08:00:00Z,messaging
+vpn,degraded,94.2,INC-5501,Intermittent packet loss on EU nodes. Engineers investigating.,eu-west,2024-05-01T08:15:00Z,connectivity
+storage,operational,100.0,,Storage services at full capacity.,global,2024-05-01T08:00:00Z,storage
+api,major_outage,87.3,INC-5502,API gateway returning 503 errors. ETA to resolution: 45 min.,us-east,2024-05-01T08:30:00Z,api
+auth,operational,99.99,,Authentication services fully operational.,global,2024-05-01T08:00:00Z,security
+dns,operational,99.95,,DNS resolution working correctly.,global,2024-05-01T08:00:00Z,networking
+cdn,degraded,96.8,INC-5503,Elevated latency on Asia-Pacific CDN nodes.,ap-southeast,2024-05-01T08:20:00Z,networking
+database,operational,99.8,,Primary and replica databases healthy.,global,2024-05-01T08:00:00Z,data
+webhook,partial_outage,91.0,INC-5504,Webhook delivery delays of up to 15 minutes on US-West.,us-west,2024-05-01T08:25:00Z,api
+monitoring,operational,100.0,,All monitoring systems active.,global,2024-05-01T08:00:00Z,observability
